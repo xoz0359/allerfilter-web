@@ -1,0 +1,6 @@
+export const Constants = {
+    DEFAULT_PAGE: 1,
+    DEFAULT_SIZE: 10,
+    DEFAULT_TOTAL_COUNT: 0,
+    DEFAULT_PAGINATION_CAPACITY: 10
+}

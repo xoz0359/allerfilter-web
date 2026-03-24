@@ -1,0 +1,15 @@
+
+.product-info-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.product-info-title {
+    width: 100px;
+    font-weight: 600;
+}
+
+.product-info-content {
+    flex: 1;
+}

@@ -1,0 +1,12 @@
+.layout {
+  display: grid;
+  grid-template-columns: 150px 1fr 150px;
+  gap: 20px;
+
+  width: 100%;
+  margin: 0 auto;
+}
+
+.content {
+  min-height: 600px;
+}
